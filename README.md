@@ -2,7 +2,7 @@
 
 Классическая карточная игра с Лисом и Свином.
 
-### 🚀 [СКАЧАТЬ CHESTS.EXE]([https://github.com](https://github.com/deltysh/ChestsRemake/releases)
+### 🚀 [СКАЧАТЬ CHESTS.EXE]([https://github.com/deltysh/ChestsRemake/releases])
 
 *(Просто скачайте файл и запустите его. Установка не требуется.)*
 
